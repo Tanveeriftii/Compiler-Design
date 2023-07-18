@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626543376 source:c:\users\user\onedrive\documents\data structure\balence parentheses\main.cpp
+	<iostream>
+	<stack>
+	<cstring>
+

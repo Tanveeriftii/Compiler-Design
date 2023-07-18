@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626578647 source:c:\users\user\onedrive\documents\data structure\balenced\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
