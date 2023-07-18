@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625974319 source:c:\users\user\onedrive\documents\data structure\stack reverse\main.cpp
+	<iostream>
+	<string.h>
+	<stack>
+
