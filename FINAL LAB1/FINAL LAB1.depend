@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1636538887 source:c:\users\user\onedrive\documents\compiler\final lab1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+
